@@ -1,0 +1,12 @@
+Testing T ... in_args = 0, returned = 0, others = 200
+wall time = 86
+
+Testing T -> U ... in_args = 0, returned = 0, others = 200
+wall time = 30
+
+Testing grep ... in_args = 0, returned = 0, others = 2
+wall time = 31
+
+Testing regex::regex ... in_args = 21, returned = 7, others = 16
+wall time = 29
+

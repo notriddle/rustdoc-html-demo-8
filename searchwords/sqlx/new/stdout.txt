@@ -1,0 +1,12 @@
+Testing T -> U ... in_args = 0, returned = 0, others = 200
+wall time = 91
+
+Testing T, U ... in_args = 0, returned = 0, others = 200
+wall time = 68
+
+Testing T -> T ... in_args = 0, returned = 0, others = 200
+wall time = 53
+
+Testing types ... in_args = 20, returned = 14, others = 26
+wall time = 41
+
