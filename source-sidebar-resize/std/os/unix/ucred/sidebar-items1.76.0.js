@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"mod":["impl_mac"],"struct":["UCred"]};
+window.SIDEBAR_ITEMS = {"mod":["impl_linux"],"struct":["UCred"]};
