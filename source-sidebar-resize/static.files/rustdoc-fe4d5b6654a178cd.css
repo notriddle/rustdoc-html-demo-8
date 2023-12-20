@@ -1899,7 +1899,7 @@ in src-script.js and main.js
 	.src .search-form {
 		margin-left: 40px;
 	}
-	.hide-sidebar .search-form {
+	.hide-sidebar .src .search-form {
 		margin-left: 0;
 	}
 
