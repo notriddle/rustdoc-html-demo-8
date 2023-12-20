@@ -1560,7 +1560,7 @@ a.tooltip:hover::after {
 	left: 8px;
 	z-index: 101;
 }
-.hide-sidebar #sidebar-button {
+.hide-sidebar .src #sidebar-button {
 	position: static;
 }
 #settings-menu > a, #help-button > a, #sidebar-button > a {
