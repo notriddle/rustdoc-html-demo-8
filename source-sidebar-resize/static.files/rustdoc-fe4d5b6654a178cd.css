@@ -1899,6 +1899,9 @@ in src-script.js and main.js
 	.src .search-form {
 		margin-left: 40px;
 	}
+	.hide-sidebar .search-form {
+		margin-left: 32px;
+	}
 	.hide-sidebar .src .search-form {
 		margin-left: 0;
 	}
