@@ -1,0 +1,2 @@
+🔥  Profiling[1000D[0K🔥  Process exited, generating flamegraph[1000D[0K🔥  Flamegraph generated in
+file:///Users/michaelhowell/rustdoc-js-profiler/out/cortex-m/new/flamegraph.html
